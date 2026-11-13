@@ -2412,3 +2412,15 @@ msgstr "SCRAM-PLUS Channel Binding"
 #: apprise/plugins/awswhatsapp.py:214
 msgid "S3 Bucket"
 msgstr "S3 Bucket"
+
+#: apprise/plugins/notifly.py:127
+msgid "Workflow"
+msgstr "Workflow"
+
+#: apprise/plugins/notifly.py:132
+msgid "Subscriber ID"
+msgstr "Subscriber ID"
+
+#: apprise/plugins/notifly.py:137
+msgid "Subscribers"
+msgstr "Subscribers"

@@ -2413,3 +2413,15 @@ msgstr "SCRAM-PLUS 通道绑定"
 #: apprise/plugins/awswhatsapp.py:214
 msgid "S3 Bucket"
 msgstr "S3 存储桶"
+
+#: apprise/plugins/notifly.py:127
+msgid "Workflow"
+msgstr "工作流"
+
+#: apprise/plugins/notifly.py:132
+msgid "Subscriber ID"
+msgstr "订阅者 ID"
+
+#: apprise/plugins/notifly.py:137
+msgid "Subscribers"
+msgstr "订阅者"

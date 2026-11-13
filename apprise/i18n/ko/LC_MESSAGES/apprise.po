@@ -2414,3 +2414,15 @@ msgstr "SCRAM-PLUS 채널 바인딩"
 #: apprise/plugins/awswhatsapp.py:214
 msgid "S3 Bucket"
 msgstr "S3 버킷"
+
+#: apprise/plugins/notifly.py:127
+msgid "Workflow"
+msgstr "워크플로"
+
+#: apprise/plugins/notifly.py:132
+msgid "Subscriber ID"
+msgstr "구독자 ID"
+
+#: apprise/plugins/notifly.py:137
+msgid "Subscribers"
+msgstr "구독자"
